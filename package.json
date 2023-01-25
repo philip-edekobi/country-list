@@ -1,0 +1,21 @@
+{
+  "name": "listcountries",
+  "version": "1.0.0",
+  "description": "a module for getting all the countries in the world alongside their flags",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test",
+    "compile": "node index.js"
+  },
+  "keywords": [
+    "countries",
+    "restcountries.com",
+    "api",
+    "webscraping"
+  ],
+  "author": "Philip Edekobi (philipedekobi@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.4"
+  }
+}
